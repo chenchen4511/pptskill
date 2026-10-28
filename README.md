@@ -50,12 +50,20 @@ $skill-installer 安装 https://github.com/chenchen4511/pptskill/tree/main/pptsk
 
 本技能提供流程和制作偏好。生成图片、制作可编辑 PPT、提取配图和渲染检查，需要运行环境提供相应工具；安装本技能不会自动安装这些工具。
 
+## 案例
+
+[下载：英国谢菲尔德 AMRC 案例研究](examples/英国谢菲尔德AMRC案例研究.pptx)
+
+这是一份用户提供的单页案例 PPT，可用于查看内容组织和版式。案例中的主题、页数和布局仅适用于该案例，新任务仍以当次材料与确认后的计划为准。
+
 ## 仓库结构
 
 ```text
 .
 ├── README.md
 ├── LICENSE
+├── examples/
+│   └── 英国谢菲尔德AMRC案例研究.pptx
 └── pptskill/
     ├── SKILL.md
     └── references/
